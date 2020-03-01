@@ -3,6 +3,8 @@
 This set of tools provides a reasonably secure mechanism for burning ENG on Ethereum, and minting
 SCRT 1-to-1 on the Enigma chain. 
 
+This repo contains the implementation for the [Multisig Setup Proposal](https://hackmd.io/AY1XxpRsQey1E-qB3iSyVg)
+
 ## Installation
 
 First ensure you are in a new and empty directory.
